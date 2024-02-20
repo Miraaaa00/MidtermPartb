@@ -7,6 +7,6 @@
  *
  * @author Kristina
  */
-public class MariaKristina {
+public class Maria {
     
 }
